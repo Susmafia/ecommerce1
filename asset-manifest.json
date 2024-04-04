@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MadLab-main/static/css/main.e6c13ad2.css",
-    "main.js": "/MadLab-main/static/js/main.cffa433b.js",
-    "static/js/453.1936ba5e.chunk.js": "/MadLab-main/static/js/453.1936ba5e.chunk.js",
-    "index.html": "/MadLab-main/index.html",
-    "main.e6c13ad2.css.map": "/MadLab-main/static/css/main.e6c13ad2.css.map",
-    "main.cffa433b.js.map": "/MadLab-main/static/js/main.cffa433b.js.map",
-    "453.1936ba5e.chunk.js.map": "/MadLab-main/static/js/453.1936ba5e.chunk.js.map"
+    "main.css": "/ecommerce1/static/css/main.e6c13ad2.css",
+    "main.js": "/ecommerce1/static/js/main.efb95e5b.js",
+    "static/js/453.1936ba5e.chunk.js": "/ecommerce1/static/js/453.1936ba5e.chunk.js",
+    "index.html": "/ecommerce1/index.html",
+    "main.e6c13ad2.css.map": "/ecommerce1/static/css/main.e6c13ad2.css.map",
+    "main.efb95e5b.js.map": "/ecommerce1/static/js/main.efb95e5b.js.map",
+    "453.1936ba5e.chunk.js.map": "/ecommerce1/static/js/453.1936ba5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cffa433b.js"
+    "static/js/main.efb95e5b.js"
   ]
 }
