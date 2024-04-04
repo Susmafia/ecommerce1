@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MadLab-main/static/css/main.e6c13ad2.css",
+    "main.js": "/MadLab-main/static/js/main.cffa433b.js",
+    "static/js/453.1936ba5e.chunk.js": "/MadLab-main/static/js/453.1936ba5e.chunk.js",
+    "index.html": "/MadLab-main/index.html",
+    "main.e6c13ad2.css.map": "/MadLab-main/static/css/main.e6c13ad2.css.map",
+    "main.cffa433b.js.map": "/MadLab-main/static/js/main.cffa433b.js.map",
+    "453.1936ba5e.chunk.js.map": "/MadLab-main/static/js/453.1936ba5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cffa433b.js"
+  ]
+}
